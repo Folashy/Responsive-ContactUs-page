@@ -1,5 +1,4 @@
 import React from 'react'
-import './infoDiv.css'
 import personAvatar from "../../images/contactIcon.svg";
 
 
